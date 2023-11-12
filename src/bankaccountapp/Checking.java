@@ -1,6 +1,6 @@
 package bankaccountapp;
 
-public class Checking extends Account {
+public class Checking extends Info {
 //List properties specific to a Checking account
 	
 	private int debitCardNumber;
