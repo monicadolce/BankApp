@@ -8,6 +8,7 @@ public abstract class Account implements IBaseRate{
 	private static int index = 10000;
 	protected String accountNumber;
 	protected double rate;
+	abstract double= BaseRate;
 	
 //	Constructor to set base properties and initialize the account
 	
